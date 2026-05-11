@@ -3,7 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 // API base URL
-const API_BASE_URL = 'https://student-activity-api.onrender.com';
+const API_BASE_URL = 'https://student-activity-api-zrwr.onrender.com';
 
 const App = () => {
   // =========================================================================
