@@ -14,8 +14,8 @@ app = Flask(__name__)
 # CORS - Allow frontend domain (update after deployment)
 CORS(app, origins=[
     "http://localhost:3000",
+    "https://student-activity-tracker-xr6l.onrender.com",
     "https://student-activity-tracker.onrender.com"
-    "https://student-activity-tracker-xr6l.onrender.com" 
 ])
 
 # Database configuration - Use PostgreSQL in production, SQLite in development
