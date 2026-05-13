@@ -589,9 +589,9 @@ SOFTWARE.
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/student-activity-tracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/student-activity-tracker?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/student-activity-tracker?style=social)
+![GitHub stars](https://img.shields.io/github/stars/habeebu-rahman/student-activity-tracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/habeebu-rahman/student-activity-tracker?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/habeebu-rahman/student-activity-tracker?style=social)
 
 ---
 
