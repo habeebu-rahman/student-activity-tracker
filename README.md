@@ -566,10 +566,9 @@ SOFTWARE.
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/habeebu-rahman)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@habeebu-rahman](https://github.com/habeebu-rahman)
 - Email: habeeeburahman271@gmail.com
-- Portfolio: [yourportfolio.com](https://habeebu-rahman-portfolio.netlify.app/)
+- Portfolio: [https://habeebu-rahman-portfolio.netlify.app](https://habeebu-rahman-portfolio.netlify.app/)
 
 **Project Link:** [https://github.com/habeebu-rahman/student-activity-tracker](https://github.com/habeebu-rahman/student-activity-tracker)
 
